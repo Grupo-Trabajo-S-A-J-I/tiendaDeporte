@@ -5,7 +5,6 @@ public class Cliente extends Persona {
     public void mostrarDatos() {
 
     }
-
     public enum Tipo { POTENCIAL, NUEVO, VIP, MOROSO }
     private Tipo tipoCliente;
 
